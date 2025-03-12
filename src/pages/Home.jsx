@@ -89,7 +89,7 @@ function Home() {
 
             <div className="card bg-dark-1 text-white choose-card">
               <img
-                src="/src/assets/card-img/card-2.avif"
+                src="../src/assets/card-img/card-2.avif"
                 className="card-img"
                 alt="..."
               />
