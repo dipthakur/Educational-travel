@@ -69,7 +69,7 @@ function Home() {
           <div className="all-cards">
             <div className="card bg-dark-1 text-white choose-card">
               <img
-                src="../src/assets/card-img/card-1.avif"
+                src="/assets/card-img/card-1.avif"
                 className="card-img"
                 alt="..."
               />
@@ -89,7 +89,7 @@ function Home() {
 
             <div className="card bg-dark-1 text-white choose-card">
               <img
-                src="../src/assets/card-img/card-2.avif"
+                src="/assets/card-img/card-2.avif"
                 className="card-img"
                 alt="..."
               />
@@ -109,7 +109,7 @@ function Home() {
 
             <div className="card bg-dark-1 text-white choose-card">
               <img
-                src="../src/assets/card-img/card-3.avif"
+                src="/assets/card-img/card-3.avif"
                 className="card-img"
                 alt="..."
               />
@@ -129,7 +129,7 @@ function Home() {
 
             <div className="card bg-dark-1 text-white choose-card">
               <img
-                src="../src/assets/card-img/card-4.avif"
+                src="/assets/card-img/card-4.avif"
                 className="card-img"
                 alt="..."
               />
@@ -208,21 +208,21 @@ function Home() {
           <div className="all-overlay-three-img">
             <div className="overlay-img-top">
               <img
-                src="../src/assets/video-overlay-img/overlay-top-edu.png"
+                src="/assets/video-overlay-img/overlay-top-edu.png"
                 alt=""
               />
             </div>
 
             <div className="overlay-img-bottom-l">
               <img
-                src="../src/assets/video-overlay-img/overlay-b-p.png"
+                src="/assets/video-overlay-img/overlay-b-p.png"
                 alt=""
               />
             </div>
 
             <div className="overlay-img-bottom-r">
               <img
-                src="../src/assets/video-overlay-img/overlay-digit-edu.png"
+                src="/assets/video-overlay-img/overlay-digit-edu.png"
                 alt=""
               />
             </div>
@@ -249,7 +249,7 @@ function Home() {
           }}
         >
           <div className="card-container">
-            <img src="../src/assets/card-img/feature-1.png" alt="Image 1" />
+            <img src="/assets/card-img/feature-1.png" alt="Image 1" />
             <div className="upar-icon">
               <div className="upar-icon-tage">
                 <p>Featured</p>
@@ -294,7 +294,7 @@ function Home() {
           </div>
 
           <div className="card-container">
-            <img src="../src/assets/card-img/feature-2.png" alt="Image 2" />
+            <img src="/assets/card-img/feature-2.png" alt="Image 2" />
             <div className="upar-icon">
               <div className="upar-icon-tage">
                 <p>Featured</p>
@@ -339,7 +339,7 @@ function Home() {
           </div>
 
           <div className="card-container">
-            <img src="../src/assets/card-img/feature-3.png" alt="Image 3" />
+            <img src="/assets/card-img/feature-3.png" alt="Image 3" />
             <div className="upar-icon">
               <div className="upar-icon-tage">
                 <p>Featured</p>
@@ -384,7 +384,7 @@ function Home() {
           </div>
 
           <div className="card-container">
-            <img src="../src/assets/card-img/feature-4.png" alt="Image 4" />
+            <img src="/assets/card-img/feature-4.png" alt="Image 4" />
             <div className="upar-icon">
               <div className="upar-icon-tage">
                 <p>Featured</p>
@@ -442,7 +442,7 @@ function Home() {
             </div>
 
             <div className="testimonals-img">
-              <img src="../src/assets/card-img/testimonals-r-img.jpg" alt="" />
+              <img src="/assets/card-img/testimonals-r-img.jpg" alt="" />
             </div>
             <button className="btn btn-testimonials">All Testimonials</button>
           </div>
@@ -467,7 +467,7 @@ function Home() {
           {/* First Item */}
           <div className="ticket-card-container">
             <img
-              src="../src/assets/destinations-img/1-lingaraj-temple-bhubaneshwar-odisha-city-hero.jpeg"
+              src="/assets/destinations-img/1-lingaraj-temple-bhubaneshwar-odisha-city-hero.jpeg"
               alt="Image 1"
             />
             <div className="overlay">
@@ -480,7 +480,7 @@ function Home() {
           {/* Second Item */}
           <div className="ticket-card-container">
             <img
-              src="../src/assets/destinations-img/beautiful-mountain-landscape-azores-archipelago-portugal.jpg"
+              src="/assets/destinations-img/beautiful-mountain-landscape-azores-archipelago-portugal.jpg"
               alt="Image 2"
             />
             <div className="overlay">
@@ -493,7 +493,7 @@ function Home() {
           {/* Third Item */}
           <div className="ticket-card-container">
             <img
-              src="../src/assets/destinations-img/dashashwamedh-ghat-varanasi-uttar-pradesh-city-hero.jpeg"
+              src="/assets/destinations-img/dashashwamedh-ghat-varanasi-uttar-pradesh-city-hero.jpeg"
               alt="Image 3"
             />
             <div className="overlay">
@@ -506,7 +506,7 @@ function Home() {
           {/* Fourth Item */}
           <div className="ticket-card-container">
             <img
-              src="../src/assets/destinations-img/empty-square-lake-city-park_1127-4096.jpg"
+              src="/assets/destinations-img/empty-square-lake-city-park_1127-4096.jpg"
               alt="Image 4"
             />
             <div className="overlay">
@@ -518,7 +518,7 @@ function Home() {
           {/* Five Item */}
           <div className="ticket-card-container">
             <img
-              src="../src/assets/destinations-img/dal-lake-srinagar-jammu-&-kashmir-2-attr-hero.jpeg"
+              src="/assets/destinations-img/dal-lake-srinagar-jammu-&-kashmir-2-attr-hero.jpeg"
               alt="Image 4"
             />
             <div className="overlay">
@@ -530,7 +530,7 @@ function Home() {
           {/* six Item */}
           <div className="ticket-card-container">
             <img
-              src="../src/assets/destinations-img/buddha-smriti-park-patna-bihar-1-new-attr-hero.jpeg"
+              src="/assets/destinations-img/buddha-smriti-park-patna-bihar-1-new-attr-hero.jpeg"
               alt="Image 4"
             />
             <div className="overlay">
@@ -542,7 +542,7 @@ function Home() {
           {/* seven Item */}
           <div className="ticket-card-container">
             <img
-              src="../src/assets/destinations-img/lake-house.jpg"
+              src="/assets/destinations-img/lake-house.jpg"
               alt="Image 4"
             />
             <div className="overlay">
@@ -573,7 +573,7 @@ function Home() {
           <div className="container latest-tavel-card">
             <div className="card latest-tavel-card1">
               <img
-                src="../src/assets/card-img/blog-img-travle.jpg"
+                src="/assets/card-img/blog-img-travle.jpg"
                 className="card-img-top"
                 alt="..."
               />
@@ -594,7 +594,7 @@ function Home() {
 
             <div className="card latest-tavel-card1">
               <img
-                src="../src/assets/card-img/blog-img-travle1.jpg"
+                src="/assets/card-img/blog-img-travle1.jpg"
                 className="card-img-top"
                 alt="..."
               />
@@ -614,7 +614,7 @@ function Home() {
 
             <div className="card latest-tavel-card1">
               <img
-                src="../src/assets/card-img/blog-img-travle2.jpg"
+                src="/assets/card-img/blog-img-travle2.jpg"
                 className="card-img-top"
                 alt="..."
               />

@@ -42,7 +42,7 @@ function Footer() {
                 </div>
                 <div className="payment-icons">
                     <a href="#">
-                        <img src="../src/assets/card-img/footer_2-image-1.png.png" alt="Visa" />
+                        <img src="/assets/card-img/footer_2-image-1.png.png" alt="Visa" />
                     </a>
                 </div>
             </div>

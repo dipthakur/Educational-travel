@@ -21,7 +21,7 @@ const About = () => {
           <div className="aboutus-header-image">
             <div className="aboutus-header-image-wrapper">
               <img 
-                src="../src/assets/card-img/about-us-img-page.avif" alt="img"
+                src="/assets/card-img/about-us-img-page.avif" alt="img"
                 className="aboutus-header-image-img"
                 width="701"
                 height="468"
@@ -39,7 +39,7 @@ const About = () => {
           <div className="aboutus-header-image d-none d-md-block">
             <div className="aboutus-header-image-wrapper">
               <img 
-                src="../src/assets/card-img/mission.avif" alt="img"
+                src="/assets/card-img/mission.avif" alt="img"
                 className="aboutus-header-image-img"
                 width="701"
                 height="468"
@@ -68,7 +68,7 @@ const About = () => {
           <div className="aboutus-header-image">
             <div className="aboutus-header-image-wrapper">
               <img 
-                src="../src/assets/card-img/our-story-img.avif" alt="img"
+                src="/assets/card-img/our-story-img.avif" alt="img"
                 className="aboutus-header-image-img"
                 width="701"
                 height="468"

@@ -151,7 +151,7 @@
     position: relative;
     width: 100%;
     height: 100vh;
-    background-image: url("../src/assets/banner-img/Travel_Parallax_Desktop.avif");
+    background-image: url("/assets/banner-img/Travel_Parallax_Desktop.avif");
     background-position: center !important;
     background-repeat: no-repeat;
     background-size: cover;
@@ -231,7 +231,7 @@
   }
   
   .why-choose-us {
-    background-image: URL("../src/assets/card-img/world-bg-img.jpg");
+    background-image: URL("/assets/card-img/world-bg-img.jpg");
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -796,7 +796,7 @@
   
   /* ---------------------------recant post----------------------------------- */
   .recent-post {
-    background-image: URL("../src/assets/card-img/jumping-man.avif");
+    background-image: URL("/assets/card-img/jumping-man.avif");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -906,7 +906,7 @@
   
   /* -------------------------footer------------------------------- */
   .footer {
-    background-image: url("../src/assets/card-img/Background_img.png");
+    background-image: url("/assets/card-img/Background_img.png");
     background-size: cover;
     background-position: center;
     color: white;
@@ -1197,7 +1197,7 @@
 /* -------------------------------------------Poulare-d----------------------------------- */
 
 .popular-destinations-container{
-  background-image: url(../src/assets/destinations-img/attraction-bg.jpg);
+  background-image: url(/assets/destinations-img/attraction-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center ;
